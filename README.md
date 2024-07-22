@@ -1,5 +1,5 @@
 # Lexi_Quest
-My effort on a recreation of Wordle using CPP. It's extremely complicated that even i don't understand certain things I wrote, I will however learn all of it one step at a time. This game works, but it doesn't tell you if the characters in your guesses are correct or wrong. Will update in the future. 5-letter words only.
+My effort on a recreation of Wordle using CPP. Called "Lexi Quest". It's extremely complicated that even i don't understand certain things I wrote, I will however learn all of it one step at a time. This game works, but it doesn't tell you if the characters in your guesses are correct or wrong. Will update in the future. 5-letter words only.
 
 # How to run the game?
 Use the Makefile, and type in your terminal "make", then type ./exe to run the program. (Be sure that the Directory names are correct! ["Gameplay" & "Header"])
